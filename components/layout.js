@@ -46,9 +46,9 @@ export default function Layout({ children }) {
   return (
     <div className="flex flex-col items-center justify-center w-screen h-screen text-gray-800 transition duration-1000 ease-in-out dark:text-white dark:bg-blueGray-700">
       <Head>
-        <title>Katherine Oelsner</title>
+        <title>Loshilu Lentumunai</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-        <script defer data-domain="katherineoelsner.com" src="https://plausible.io/js/plausible.js"></script>
+        <script defer data-domain="" src=""></script>
       </Head>
       <div
         style={{ minWidth: '24rem', maxWidth: '37rem' }}
@@ -85,21 +85,21 @@ export default function Layout({ children }) {
         <motion.div layoutId="social-icons" className="flex items-center justify-center">
           <a
             className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://github.com/octokatherine"
+            href="https://github.com/Lentumunai-Mark"
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl " icon={faGithub} />
           </a>
           <a
             className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://twitter.com/katherinecodes"
+            href="https://twitter.com/LoshiluMark"
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl" icon={faTwitter} />
           </a>
           <a
             className="text-gray-400 dark:text-white hover:text-lightBlue-600 dark:hover:text-pink-500"
-            href="https://www.linkedin.com/in/katherineoelsner/"
+            href="https://www.linkedin.com/in/mark-l-4b9638182/"
             target="_blank"
           >
             <FontAwesomeIcon className="mr-6 text-2xl" icon={faLinkedinIn} />

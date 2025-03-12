@@ -12,12 +12,11 @@ export default function About() {
         className="px-4"
       >
         <div className="mb-6 text-center text-gray-800 dark:text-white">
-          Hi, I'm Katherine! I am a Senior Software Engineer at GitHub with a passion for developing web and mobile
+          Hi, I'm Losh! I am a Software Engineer with a passion for developing web and mobile
           applications that make a positive impact on peoples lives.
         </div>
         <div className="text-center text-gray-800 dark:text-white">
-          In addition to coding and learning new tech, I enjoy rock climbing, drinking coffee,
-          playing guitar, reading, and hanging with my dog. If any of these things interest you too,
+          In addition to coding and learning new tech, I enjoy photography , exploring new places, and reading. If any of these things interest you too,
           I'd love to chat!
         </div>
       </motion.div>

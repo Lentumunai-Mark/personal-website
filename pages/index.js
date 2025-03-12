@@ -12,12 +12,12 @@ export default function Home() {
         className="flex flex-col items-center justify-center"
       >
         <div className="flex flex-col items-center justify-center">
-          <img className="w-32 h-32 mb-8 rounded-full" src="/katherine.jpg" alt="Katherine" />
+          <img className="w-32 h-32 mb-8 rounded-full" src="https://avatars.githubusercontent.com/u/90028422?v=4" alt="Loshilu" />
           <h1 className="mx-auto text-2xl font-semibold tracking-widest text-center sm:text-3xl">
-            KATHERINE OELSNER
+            LENTUMUNAI LOSHILU
           </h1>
           <hr className="w-16 my-8 border-gray-300" />
-          <h2 className="text-lg tracking-widest text-center">SENIOR SOFTWARE ENGINEER</h2>
+          <h2 className="text-lg tracking-widest text-center">SOFTWARE ENGINEER</h2>
         </div>
       </motion.div>
     </Layout>
